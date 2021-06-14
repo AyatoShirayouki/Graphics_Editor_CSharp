@@ -1,0 +1,11 @@
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\bin\Debug\Draw.exe
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\bin\Debug\Draw.pdb
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.MainForm.resources
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.exe
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.pdb
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.src.GUI.Status.resources
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.Properties.Resources.resources
+D:\University\Computer Graphics\C#\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
